@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+import pic01 from '../images/WCNewell_Dec2017.jpg'
+import pic02 from '../images/ZenMedHomePage.png'
+import pic03 from '../images/UCfromTimp.jpg'
 
 class Main extends React.Component {
   render() {
@@ -16,23 +16,26 @@ class Main extends React.Component {
         <article id="intro" className={`${this.props.article === 'intro' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Intro</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
-          <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+          <p>Hello World! W. Clark Newell here. I recently graduated in June 2018 from Galvanize-Denver, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Node.js, Vue.js, Vuetify, React Native, Express, Knex, PostgreSQL, Cypress testing and Agile workflow.</p>
+          <p>Post graduation, I have been studying React, Typescript, GatsbyJS, GraphQL, Flow, DevOps, Sovereign blockchain, and Python.</p>
+          <p>Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the University of Utah.</p>
+          <p>These experiences have broadened my communication skills and adaptability within a wide variety of settings and cultures. I am proud to come from a diverse background that I draw upon for creative output and meaningful interactions with colleagues and clients.</p>
           {close}
         </article>
 
         <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Work</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
-          <p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-          <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+          <p><a href='https://zenmedvue.firebaseapp.com/#/'>ZenMed</a> is one of the first apps I built and is a prototype meditation app built in Vue.js, which includes a music player with visualizer, daily quote api, and white noise generator. The next iteration of this app will be combined with "VuetifulGoals" as a PWA built in React.</p>
+          <p><a href='vuetiful-goals.firebaseapp.com/#/goals'>VuetifulGoals</a> is another newbie project and is a "full stack" app built with the Vuetify library and a PosgreSQL backend. The next iteration of this app will be combined with "ZenMed" as PWA built in React.</p>
           {close}
         </article>
 
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="" /></span>
-          <p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+          <p>As I embark on this new career path, I 'm in search of a supportive environment to hone my developer skills with the mentality that learning never ends. In turn, I bring my past experiences to your team. I am personable and highly motivated to quickly earn a trusted position as liaison between your clients and developers as a project manager. I would love to travel and interact with our clients both domestic and international in person when needed.</p>
+          <p>When not coding, I thoroughly enjoy the outdoors, my road bike, my cat, walking shelter dogs, choir singing, playing the piano, and devouring pop culture.I am proud to have been involved in the Denver area tech community as an active Co - organizer for the Denver LGBTQ in Tech meetup group.I 've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes!</p>
           {close}
         </article>
 
