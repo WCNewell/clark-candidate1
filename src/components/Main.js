@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import pic01 from '../images/WCNewell_Dec2017.jpg'
-import pic02 from '../images/ZenMedHomePage.png'
-import pic03 from '../images/UCfromTimp.jpg'
+import pic01 from '../images/ClarkDec2017.jpg'
+import pic02 from '../images/ZenMedHomepage.jpg'
+import pic03 from '../images/ClarkUnicorn.jpg'
 
 class Main extends React.Component {
   render() {
@@ -16,10 +16,10 @@ class Main extends React.Component {
         <article id="intro" className={`${this.props.article === 'intro' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Intro</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
-          <p>Hello World! W. Clark Newell here. I recently graduated in June 2018 from Galvanize-Denver, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Node.js, Vue.js, Vuetify, React Native, Express, Knex, PostgreSQL, Cypress testing and Agile workflow.</p>
+          <p>Hello world, W. Clark Newell here! I recently graduated in June 2018 from Galvanize-Denver, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Node.js, Vue.js, Vuetify, React Native, Express, Knex, PostgreSQL, Cypress testing and Agile workflow.</p>
           <p>Post graduation, I have been studying React, Typescript, GatsbyJS, GraphQL, Flow, DevOps, Sovereign blockchain, and Python.</p>
           <p>Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the University of Utah.</p>
-          <p>These experiences have broadened my communication skills and adaptability within a wide variety of settings and cultures. I am proud to come from a diverse background that I draw upon for creative output and meaningful interactions with colleagues and clients.</p>
+          <p>These experiences have broadened my communication skills and adaptability within a wide variety of settings and cultures. I am proud to come from a diverse background that I draw upon for creative output and meaningful interactions with clients and colleagues.</p>
           {close}
         </article>
 
@@ -34,8 +34,8 @@ class Main extends React.Component {
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="" /></span>
-          <p>As I embark on this new career path, I 'm in search of a supportive environment to hone my developer skills with the mentality that learning never ends. In turn, I bring my past experiences to your team. I am personable and highly motivated to quickly earn a trusted position as liaison between your clients and developers as a project manager. I would love to travel and interact with our clients both domestic and international in person when needed.</p>
-          <p>When not coding, I thoroughly enjoy the outdoors, my road bike, my cat, walking shelter dogs, choir singing, playing the piano, and devouring pop culture.I am proud to have been involved in the Denver area tech community as an active Co - organizer for the Denver LGBTQ in Tech meetup group.I 've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes!</p>
+          <p>As I embark on this new career path, I 'm in search of a supportive environment to hone my developer arts with the mentality that learning never ends. In turn, I bring my past experiences and skills to your team. I am personable and highly motivated to earn a trusted position as liaison between our clients and developers as a project manager. I would love to travel and interact with our clients and colleagues both domestic and international in person when needed.</p>
+          <p>When not coding, I thoroughly enjoy the outdoors, my road bike, my cat, walking shelter dogs, choir singing, playing the piano, and devouring pop culture.I am proud to have been involved in the Denver area tech community as an active Co-organizer for the Denver LGBTQ in Tech meetup group.I 've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes!</p>
           {close}
         </article>
 
