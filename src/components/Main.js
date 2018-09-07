@@ -41,7 +41,7 @@ class Main extends React.Component {
 
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          <form action="http://www.bluehost.com/bluemail" enctype="multipart/form-data" method="POST">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
@@ -55,7 +55,11 @@ class Main extends React.Component {
               <textarea name="message" id="message" rows="4"></textarea>
             </div>
             <ul className="actions">
+              <input type='hidden' name='cgiemail-mailopt' value='sync' />
+              <input type="hidden" name="sendtoemail" value="clark@clarknewell.tech" />
+              <input type="hidden" name="subject" value="clarknewell.tech - Contact Form" />
               <li><input type="submit" value="Send Message" className="special" /></li>
+              <input type="hidden" name="redirect" value="http://clarknewell.tech" />
               <li><input type="reset" value="Reset" /></li>
             </ul>
           </form>
