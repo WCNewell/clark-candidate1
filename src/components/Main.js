@@ -17,7 +17,7 @@ class Main extends React.Component {
           <h2 className="major">Intro</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
           <p>Hello world, W. Clark Newell here! I recently graduated in June 2018 from Galvanize-Denver, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Node.js, Vue.js, Vuetify, React Native, Express, Knex, PostgreSQL, Cypress testing and Agile workflow.</p>
-          <p>Post graduation, I have been studying React, Typescript, GatsbyJS, GraphQL, Flow, DevOps, Sovereign blockchain, and Python.</p>
+          <p>Post graduation, I have been studying React, Typescript, GatsbyJS, GraphQL, Flow, Sovereign blockchain, Python and DevOps.</p>
           <p>Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the University of Utah.</p>
           <p>These experiences have broadened my communication skills and adaptability within a wide variety of settings and cultures. I am proud to come from a diverse background that I draw upon for creative output and meaningful interactions with clients and colleagues.</p>
           {close}
