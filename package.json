@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "clarknewell-personal-web-app",
+  "description": "Clark Newell Personal Web App based on Gatsby Starter - Dimension V2",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Hunter Chang and Clark Newell",
   "dependencies": {
     "gatsby": "^2.0.0-rc.13",
     "gatsby-plugin-manifest": "next",

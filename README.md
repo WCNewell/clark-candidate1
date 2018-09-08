@@ -1,21 +1,11 @@
-# gatsby-starter-dimension-v2
+# Clark Newell Personal Web App
 
-**This is a starter for Gatsby.js V2.**
+## based on gatsby-starter-dimension-v2
 
-**The older V1 version of this starter can be found at:**
-<br/>
-**https://github.com/ChangoMan/gatsby-starter-dimension**
+This is a Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP.
 
-Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+GatsbyJS is a super fast static site generator featuring React, Webpack, GraphQL, and modern JavaScript CSS.
 
-## Preview
+Designs from HTML 5 UP feature aboslutely gorgeous Sass. Check out > https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
 
-http://gatsby-dimension-v2.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension-v2`
-
-Run `gatsby develop` in the terminal to start the dev site.
+My first personal web app, I am pleased that I could so quickly adapt the code to my current styling and content needs.

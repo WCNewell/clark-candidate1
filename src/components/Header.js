@@ -2,11 +2,13 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Logo from '../images/SmOgLogoTrans.png'
 
+/* eslint-disable */
+
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="content">
             <div className="inner">
-                <span className="cnlogo main"><img src={Logo} alt="" /></span>
+                <span className="image main"><img src={Logo} alt="" /></span>
             </div>
         </div>
         <nav>

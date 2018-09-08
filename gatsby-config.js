@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: "Clark Newell",
-    author: "Hunter Chang",
-    description: "Clark Newell personal site based on a Gatsby.js V2 Starter & Dimension by HTML5 UP"
+    author: "Hunter Chang and Clark Newell",
+    description: "Clark Newell personal site based on Gatsby.js V2 Starter & Dimension by HTML5 UP"
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -27,7 +27,8 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
           <p><a href='https://zenmedvue.firebaseapp.com/#/'>ZenMed</a> is one of the first apps I built and is a prototype meditation app built in Vue.js, which includes a music player with visualizer, daily quote api, and white noise generator. The next iteration of this app will be combined with "VuetifulGoals" as a PWA built in React.</p>
-          <p><a href='vuetiful-goals.firebaseapp.com/#/goals'>VuetifulGoals</a> is another newbie project and is a "full stack" app built with the Vuetify library and a PosgreSQL backend. The next iteration of this app will be combined with "ZenMed" as PWA built in React.</p>
+          <p><a href='vuetiful-goals.firebaseapp.com/#/goals'>VuetifulGoals</a> is another newbie project and is a "full stack" app featuring full CRUD functionality built with the Vuetify library and a PosgreSQL backend. The next iteration of this app will be combined with "ZenMed" as PWA built in React.</p>
+          <p>This app itself is the first personal website that I've ever built. I used a starter kit from GatsyJS, featuring React and QraphQL, and HTML5 UP, featuring gorgeous pre-built Sass. I am pleased that I was able to quickly adapt the code to fit my content and current needs.</p>
           {close}
         </article>
 
@@ -35,7 +36,7 @@ class Main extends React.Component {
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="" /></span>
           <p>As I embark on this new career path, I 'm in search of a supportive environment to hone my developer arts with the mentality that learning never ends. In turn, I bring my past experiences and skills to your team. I am personable and highly motivated to earn a trusted position as liaison between our clients and developers as a project manager. I would love to travel and interact with our clients and colleagues both domestic and international in person when needed.</p>
-          <p>When not coding, I thoroughly enjoy the outdoors, my road bike, my cat, walking shelter dogs, choir singing, playing the piano, and devouring pop culture.I am proud to have been involved in the Denver area tech community as an active Co-organizer for the Denver LGBTQ in Tech meetup group.I 've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes!</p>
+          <p>When not coding, I thoroughly enjoy the outdoors (I took the background photo from the back of Mount Timpanogos, Utah at 5 AM), my road bike, my cat, walking shelter dogs, choir singing, playing the piano, and devouring pop culture.I am proud to have been involved in the Denver area tech community as an active Co-organizer for the Denver LGBTQ in Tech meetup group.I 've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes!</p>
           {close}
         </article>
 
