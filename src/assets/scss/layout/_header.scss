@@ -52,7 +52,7 @@
 			border-color: _palette(border);
 			border-top-width: _size(border-width);
 			border-bottom-width: _size(border-width);
-			max-width: 43%;
+			max-width: 48%;
 
 			.inner {
 				@include vendor('transition', (
@@ -61,12 +61,12 @@
 					'opacity #{_duration(article)} ease-in-out'
 				));
 				@include vendor('transition-delay', '0.25s');
-				padding: 2rem 2rem;
+				padding: 1rem 1rem;
 				max-height: 35rem;
 				overflow: auto;
 
 				> :last-child {
-					margin-bottom: 8;
+					margin-bottom: 0;
 				}
 			}
 
