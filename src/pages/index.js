@@ -23,6 +23,7 @@ class IndexPage extends React.Component {
     this.timeoutId = setTimeout(() => {
         this.setState({loading: ''});
     }, 100);
+    console.log('Thanks for looking under the hood!')
   }
 
   componentWillUnmount () {

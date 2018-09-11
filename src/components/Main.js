@@ -33,6 +33,7 @@ class Main extends React.Component {
           <span className="image main"><img src={pic02} alt="" /></span>
           <p><a href='https://zenmedvue.firebaseapp.com/#/'>ZenMed</a> is one of the first apps I built and is a prototype meditation app built in Vue.js, which includes a music player with visualizer, daily quote api, and white noise generator. The next iteration of this app will be combined with "VuetifulGoals" as a PWA built in React.</p>
           <p><a href='https://vuetiful-goals.firebaseapp.com/#/goals'>VuetifulGoals</a> is another newbie project and is a "full stack" app featuring full CRUD functionality built with the Vuetify library on the front, and a PosgreSQL backend. The next iteration of this app will be combined with "ZenMed" as a PWA built in React.</p>
+          <p>As a volunteer member of the <a href="https://hirediversity.us/">Hire Diversity</a> development team I am getting hands-on real world experience and mentorship.</p>
           <p>This app itself is my first personal website. I used a starter kit from GatsyJS, featuring React and QraphQL. The gorgeous Sass is from HTML5 UP, which I modified to fit my content and personal design needs. GraphQL functionality will be useful with the inclusion of a blog section in future iterations.</p>
           <ul className="icons">
             <li><a href="https://twitter.com/WCNewell" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
@@ -75,7 +76,7 @@ class Main extends React.Component {
 
               <input type='hidden' name='cgiemail-mailopt' value='sync' />
               <input type="hidden" name="sendtoemail" value="clark@clarknewell.tech" />
-              <input type="hidden" name="redirect" value="http://clarknewell.tech" />
+              <input type="hidden" name="redirect" value="https://clarknewell.tech" />
 
               <li><input type="reset" value="Reset" /></li>
             </ul>
