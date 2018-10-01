@@ -8,7 +8,7 @@ const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="content">
             <div className="inner">
-                <span className="image main"><img src={Logo} alt="" /></span>
+                <span className="image main"><img src={Logo} alt="Sunrise view from the back of Mount Timpanogos Utah" /></span>
             </div>
         </div>
         <nav>
