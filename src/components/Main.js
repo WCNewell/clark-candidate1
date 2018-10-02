@@ -48,6 +48,7 @@ class Main extends React.Component {
           <span className="image main"><img src={pic03} alt="Clark Newell on saddle of Mount Timpanogos Utah" /></span>
           <p>As I embark on this new career path, I'm in search of a supportive environment to hone my developer arts with the mentality that learning never ends. In turn, I bring my unique set of past experiences and skills to your team and would love to begin my developer career as a Software Engineer.</p>
           <p>When not coding, I thoroughly enjoy the outdoors (here I'm on the saddle of Mount Timpanogos, Utah, July 24, 2018), working out, yoga, my road bike, my animals, playing the piano, and pop culture. I am proud to have been involved in the Denver area tech community as an active Co-organizer for a meetup group. I've recently returned to my roots in Utah and look forward to bringing these experiences to the Silicon Slopes where I am a regular attendee at UtahJS and Lehi Developers User Group events.</p>
+          <p>Please ....contact me via the social media links and ...</p>
           <ul className="icons">
             <li><a href="https://twitter.com/WCNewell" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
             <li><a href="https://www.linkedin.com/in/william-clark-newell/" className="icon fa-linkedin"><span className="label">LinkedIn</span></a></li>
