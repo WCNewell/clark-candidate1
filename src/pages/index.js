@@ -23,7 +23,7 @@ class IndexPage extends React.Component {
     this.timeoutId = setTimeout(() => {
         this.setState({loading: ''});
     }, 100);
-    console.log('Thanks for looking under the hood! Please send me a message via the contact form and/or connect with me via the social media links!')
+    console.log('Thanks for looking under the hood! Please send me a message via the contact form and/or connect with me via social media links!')
   }
 
   componentWillUnmount () {
