@@ -6,7 +6,7 @@
 
 This is a Gatsby.js V2 starter based on the Dimension template, designed by HTML5 UP.
 
-GatsbyJS is a super fast static site generator featuring React, Webpack, GraphQL, and modern JavaScript CSS. GatsbyJS helps you build a progressive web app using the JAMstack.
+GatsbyJS is a super fast static site generator featuring React, Webpack, GraphQL, and modern JavaScript CSS. GatsbyJS helps you build progressive web apps using the JAMstack.
 
 Designs from HTML 5 UP feature gorgeous Sass. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
 
