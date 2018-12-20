@@ -8,6 +8,8 @@ GatsbyJS is a super fast static site generator built on the "JAMstack" featuring
 
 For my first personal web app, I adapted the code to my current styling and content needs.
 
+This is a progressive web app (PWA) designed to fit multiple media formats with a mobile-first approach. The site is optimzed for search engines (SEO) due to server-rendering, Gatsby's speed boost and react-helmet and site metadata configurations.
+
 Through this portfolio site you can read my profile, link to other projects/repos on GitHub, connect with me via LinkedIn or Twitter social media links or reach out to me via the contact form.
 
 This site also features a unique logo that I designed as well as original photography all meant to represent my passion for the outdoors, artistic aesthetic, and desire to achieve optimal health and positivity.
