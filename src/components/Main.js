@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import pic01 from '../images/ClarkDec2017.jpg'
+import pic01 from '../images/181228DevClarkweb.jpg'
 import pic02 from '../images/ZenMedHomepage.jpg'
 import pic03 from '../images/ClarkTimp.jpg'
 
