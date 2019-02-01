@@ -21,7 +21,9 @@ class Main extends React.Component {
               <a href="https://www.galvanize.com/denver-platte">
                 Galvanize-Denver
               </a>
-            </strong>, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Vue.js, React, React Native, Node.js, PostgreSQL, git, Visual Studio, AWS, consuming APIs, and Agile methodology. There I also gained experience with various JavaScript libraries such as Vuetify, React-table, Stripe, Chart.js, Google maps, Cypress, Knex.js, and Express.
+            </strong>, a web development immersive program where I trained in JavaScript ES6, HTML5, CSS, Vue.js, React, 
+            React Native, Node.js, PostgreSQL, git, Visual Studio, AWS, consuming APIs, and Agile methodology. There I also 
+            gained experience with various JavaScript libraries such as Vuetify, React-table, Stripe, Chart.js, Google maps, Cypress, Knex.js, and Express.
           </p>
           <p>
             Post graduation studies have provided a deeper dive into
@@ -30,7 +32,16 @@ class Main extends React.Component {
             testing/deployment.
           </p>
           <p>
-            Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the <strong>
+            Currently working at <strong>
+            <a href="https://redpeppersoftware.com">Red Pepper Software</a></strong> as a development intern, getting real-world exposure 
+            to front-end and back-end development working on proprietary software projects for clients. Using Jira as our productivity tool, assisting assigned team with QA, job shadowing, and coding assignments. Participating 
+            in front-end web and mobile app development using Angular frameworks and Swift. 
+            Participating in back-end development using SQL Server Management Studio and C#. 
+            Attending weekly training meetings, daily scrum stand-ups, and weekly sprint planning.
+          </p>
+          <p>
+            Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, 
+            health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the <strong>
               <a href="https://utah.edu">University of Utah</a>
             </strong>.
           </p>
