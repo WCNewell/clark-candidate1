@@ -26,31 +26,23 @@ class Main extends React.Component {
             gained experience with various JavaScript libraries such as Vuetify, React-table, Stripe, Chart.js, Google maps, Cypress, Knex.js, and Express.
           </p>
           <p>
-            Post graduation studies have provided a deeper dive into
-            React/Redux, GatsbyJS, and GraphQL. I am very interested in
-            learning more about Sass, TypeScript, DevOps and continuous
-            testing/deployment.
+            Post graduation studies provided a deeper dive into
+            React/Redux, GatsbyJS, GraphQL and headless WordPress. I am also very interested in
+            learning more about Sass, TypeScript, backend developing using C#/Entity Framework, Automated Testing, DevOps and Continuous Integration/Continuous Deployment.
           </p>
           <p>
             Currently working at <strong>
             <a href="https://redpeppersoftware.com">Red Pepper Software</a></strong> as a development intern, getting real-world exposure 
-            to front-end and back-end development working on proprietary software projects for clients. Using Jira as our productivity tool, assisting assigned team with QA, job shadowing, and coding assignments. Participating 
-            in front-end web and mobile app development using Angular frameworks and Swift. 
-            Participating in back-end development using SQL Server Management Studio and C#. 
-            Attending weekly training meetings, daily scrum stand-ups, and weekly sprint planning.
+            to front-end and back-end development working on proprietary software projects for clients. Using Jira as the productivity tool inline with scrum methodology and agile workflow, assist team with QA, pair programming, code review and full stack coding assignments building proprietary software for multiple clients. 
+            Simultaneously managing multiple tickets on strict tempo timers, switch between multiple tech stacks and languages throughout the day. 
+            Become proficient in front-end web development using HTML, CSS, Sass, JavaScript, PHP, Razor, JS frameworks such as AngularJS and Angular using VS Code, customize templates on e-commerce platforms such as Shopify and blog-sites such as WordPress, and interfacing with CRM APIs such as Zoho. 
+            Also become proficient in full stack and back-end development using C#, ASP.NET, Entity framework and SQL using Visual Studio and SSMS.
           </p>
           <p>
-            Prior career and educational experiences have provided me with a lot of management experience, spanning a wide range of industries including higher education, retail, finance, 
+            Prior career and educational experiences have provided me  with managerial and adminstriative experience, and span a wide range of industries including higher education, retail, finance, 
             health care, food and beverage, and music. I lived in Germany for 2 years and am German bilingual. I earned a BA in Music with a German minor from the <strong>
               <a href="https://utah.edu">University of Utah</a>
             </strong>.
-          </p>
-          <p>
-            These experiences have broadened my communication skills and
-            adaptability within a wide variety of settings and cultures. I
-            am proud to come from a diverse background that I draw upon for
-            creative output and meaningful interactions with clients and
-            colleagues.
           </p>
           <ul className="icons">
             <li>
