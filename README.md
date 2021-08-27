@@ -1,6 +1,6 @@
 # Clark Newell Personal Web App
 
-Note: This first iteration of my personal website is no longer active. Several node modules were depracted or legacy and not worth to effort to repair as I'd rather spend my time building a better iterations of my current site or other projects using more recent technology.
+Note: This first iteration of my personal website is no longer active. Several node modules were depracted or legacy and not worth to effort to repair as I'd rather spend my time building better iterations of my current site or other projects using more recent technology.
 
 This is a Gatsby.js V2 starter based on the Dimension template from by HTML5 UP.
 
